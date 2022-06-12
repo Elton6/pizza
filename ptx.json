@@ -1,0 +1,13 @@
+"name": "pizza",
+    "version": "1.0.0",
+    "description": "hello",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.ts",
+        
+    ],
+    
+    "preferredEditor": "tsprj"
+}
